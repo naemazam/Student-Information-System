@@ -8,7 +8,7 @@ A student information system, student management system, school administration s
 
 Use this software on Windows OS  [Download](https://github.com/naemazam/Student-Information-System/archive/refs/heads/main.zip) and Execute RAR file.
 
-
+put this folder on c drive path will look like (C:\Student Information System)
 
 ## Installing for Linux 
 
