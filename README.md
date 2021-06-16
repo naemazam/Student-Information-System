@@ -1,6 +1,8 @@
 # Student-Information-System
 
-A student information system, student management system, school administration software or student administration system is a management information system for education establishments used to manage student data
+A student information system, student management system, school administration software or student administration system is a management information system for education establishments used to manage student data.
+
+Student Information System with build-in Database System. No need to Install Other software or Configuration. It's a all-in-one Secure Software. 
 
 [![MasterHead](img/im.PNG)]()
 
