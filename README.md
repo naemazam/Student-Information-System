@@ -2,11 +2,11 @@
 
 A student information system, student management system, school administration software or student administration system is a management information system for education establishments used to manage student data
 
-[![MasterHead](img/subnet3.PNG)]()
+[![MasterHead](img/im.PNG)]()
 
 ## Installation For Windows OS
 
-Use this software on Windows OS  [Download](https://github.com/naemazam/SubNet-Calculator/archive/refs/heads/main.zip) and Execute RAR file.
+Use this software on Windows OS  [Download](https://github.com/naemazam/Student-Information-System/archive/refs/heads/main.zip) and Execute RAR file.
 
 
 
@@ -18,17 +18,17 @@ At first install Wine for running .exe file on linux
 sudo apt-get install wine32 -y && sudo apt-get install libwine -y
 
 ```
-Download file from [GitHub](https://github.com/naemazam/SubNet-Calculator.git) or Open terminal and follow 
+Download file from [GitHub](https://github.com/naemazam/Student-Information-System.git) or Open terminal and follow 
  
 ```bash
-git clone https://github.com/naemazam/SubNet-Calculator.git
+git clone https://github.com/naemazam/Student-Information-System.git
 
 ```
 
 ```bash
-cd SubNet-Calculator/
+cd Student-Information-System/
 
-wine  subnet calculator.exe
+wine  Student-Information-System
 
 ```
 
@@ -38,7 +38,7 @@ wine  subnet calculator.exe
 **How To Log In?** 
 1. Put Right ***username*** , ***password*** and ***Division*** click **Log-In** 
 
-![alt text](img/subnet3.PNG)
+![alt text](img/im4.PNG)
 
 **How to Add or Change New user with username and password ?** 
 
@@ -54,7 +54,7 @@ wine  subnet calculator.exe
  - **Clear** for clean the boxes 
  - click **reset** to clear all values. 
 
-![alt text](img/subnet1.PNG)
+![alt text](img/im3.PNG)
 
 **How to Search any data ?** 
 
@@ -73,7 +73,7 @@ wine  subnet calculator.exe
 
  - Go-to **sittings** then **working history**  you will get all working history on there , you can also 
  search by ID ( admin /user). 
-
+![alt text](img/im5.PNG)
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
@@ -81,3 +81,5 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+![alt text](img/im6.PNG)
