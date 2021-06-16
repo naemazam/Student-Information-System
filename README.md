@@ -6,7 +6,7 @@ A student information system, student management system, school administration s
 
 ## Installation For Windows OS
 
-Use this software on Windows OS  [Download](https://github.com/naemazam/SubNet-Calculator/archive/refs/heads/main.zip) and Execute RAR file.
+Use this software on Windows OS  [Download](https://github.com/naemazam/Student-Information-System/archive/refs/heads/main.zip) and Execute RAR file.
 
 
 
@@ -18,7 +18,7 @@ At first install Wine for running .exe file on linux
 sudo apt-get install wine32 -y && sudo apt-get install libwine -y
 
 ```
-Download file from [GitHub](https://github.com/naemazam/SubNet-Calculator.git) or Open terminal and follow 
+Download file from [GitHub](https://github.com/naemazam/Student-Information-System) or Open terminal and follow 
  
 ```bash
 git clone https://github.com/naemazam/SubNet-Calculator.git
