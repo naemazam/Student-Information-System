@@ -4,6 +4,7 @@ A student information system, student management system, school administration s
 
 Student Information System with build-in Database System. No need to Install Other software or Configuration. It's a all-in-one Secure Software. 
 
+
 [![MasterHead](img/im.PNG)]()
 
 ## Installation For Windows OS
@@ -29,7 +30,8 @@ git clone https://github.com/naemazam/Student-Information-System.git
 
 ```bash
 cd Student-Information-System/
-
+```
+```bash
 wine  Student-Information-System
 
 ```
