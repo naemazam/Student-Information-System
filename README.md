@@ -5,12 +5,13 @@ A student information system, student management system, school administration s
 Student Information System with build-in Database System. No need to Install Other software or Configuration. It's a all-in-one Secure Software. 
 
 
+
+
 [![MasterHead](img/im.PNG)]()
 
 ## Installation For Windows OS
 
 Use this software on Windows OS  [Download](https://github.com/naemazam/Student-Information-System/archive/refs/heads/main.zip) and Execute RAR file.
-
 
 
 ## Installing for Linux 
@@ -41,6 +42,8 @@ wine  Student-Information-System
 
 **How To Log In?** 
 1. Put Right ***username*** , ***password*** and ***Division*** click **Log-In** 
+2. Username: admin
+Password: cqupt
 
 ![alt text](img/im4.PNG)
 
