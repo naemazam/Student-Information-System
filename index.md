@@ -1,37 +1,92 @@
-## Welcome to GitHub Pages
+# Student-Information-System
 
-You can use the [editor on GitHub](https://github.com/naemazam/Student-Information-System/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A student information system, student management system, school administration software or student administration system is a management information system for education establishments used to manage student data.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Student Information System with build-in Database System. No need to Install Other software or Configuration. It's a all-in-one Secure Software. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+[![MasterHead](img/im.PNG)]()
 
-- Bulleted
-- List
+## Installation For Windows OS
 
-1. Numbered
-2. List
+Use this software on Windows OS  [Download](https://github.com/naemazam/Student-Information-System/archive/refs/heads/main.zip) and Execute RAR file.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+## Installing for Linux 
+
+At first install Wine for running .exe file on linux 
+
+```bash
+sudo apt-get install wine32 -y && sudo apt-get install libwine -y
+
+```
+Download file from [GitHub](https://github.com/naemazam/Student-Information-System.git) or Open terminal and follow 
+ 
+```bash
+git clone https://github.com/naemazam/Student-Information-System.git
+
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+```bash
+cd Student-Information-System/
+```
+```bash
+wine  Student-Information-System
 
-### Jekyll Themes
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/naemazam/Student-Information-System/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## User Guide
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**How To Log In?** 
+1. Put Right ***username*** , ***password*** and ***Division*** click **Log-In** 
+2. Username: admin
+Password: cqupt
+
+![alt text](img/im4.PNG)
+
+**How to Add or Change New user with username and password ?** 
+
+ - Go-To **settings** then **User Profiles** select *Username* *password* and *Division* and click **Add** 
+ - Select **username** then click **Delete** for Delete any Username.  
+ - user id will Random generated, all will be different. 
+
+**How to Add New Student Information?** 
+
+ - Go-to Student Manager from main menu 
+ - **Add Record** for add new data in student database 
+ - **Update** is for refresh database 
+ - **Clear** for clean the boxes 
+ - click **reset** to clear all values. 
+
+![alt text](img/im3.PNG)
+
+**How to Search any data ?** 
+
+ - Type  Student-ID it will auto search all of the data and show you on Boxes. 
+ 
+ **How to Add Image on profile?** 
+
+ - Go-to **file** on top-bar Then select **Attach image** it will select image from computer.   
+
+ 
+ **How To Delete any data ?** 
+ 
+ - Search ID of data then click **delete** then Refresh.
+
+**How To View History ?** 
+
+ - Go-to **sittings** then **working history**  you will get all working history on there , you can also 
+ search by ID ( admin /user). 
+![alt text](img/im5.PNG)
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+![alt text](img/im6.PNG)
