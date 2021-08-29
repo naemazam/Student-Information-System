@@ -11,7 +11,9 @@ Student Information System with build-in Database System. No need to Install Oth
 
 ## Installation For Windows OS
 
-Use this software on Windows OS  [Download](https://github.com/naemazam/Student-Information-System/archive/refs/heads/main.zip) and Execute RAR file.
+Download [java](https://java.com/en/download/) and Install on system 
+
+Use this software on Windows OS  [Download](https://github.com/naemazam/Student-Information-System/raw/main/Student%20Information%20System/Student%20Information%20System.exe) and Execute RAR file.
 
 
 ## Installing for Linux 
@@ -22,8 +24,7 @@ At first install Wine for running .exe file on linux
 sudo apt-get install wine32 -y && sudo apt-get install libwine -y
 
 ```
-Download file from [GitHub](https://github.com/naemazam/Student-Information-System.git) or Open terminal and follow 
- 
+Clone it 
 ```bash
 git clone https://github.com/naemazam/Student-Information-System.git
 
