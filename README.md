@@ -13,7 +13,7 @@ Student Information System with build-in Database System. No need to Install Oth
 
 Download [java](https://java.com/en/download/) and Install on system 
 
-Use this software on Windows OS  [Download](https://github.com/naemazam/Student-Information-System/raw/main/Student%20Information%20System/Student%20Information%20System.exe) and Execute RAR file.
+Use this software on Windows OS  [Download](https://github.com/naemazam/Student-Information-System/raw/main/Student%20Information%20System.rar) and Execute RAR file.
 
 
 ## Installing for Linux 
